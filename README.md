@@ -15,4 +15,4 @@ CSS3
 JavaScript (vanilla)
 Designed for beginner-level practice
 purpose: Made as part of a personal web development learning journey. This is also a part of my growing portfolio as I explore UI/UX, interactivity, and theming.
-
+![image](https://github.com/user-attachments/assets/e41a16a6-58e0-467a-a449-1126ea6ff254)
